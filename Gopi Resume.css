@@ -1,0 +1,74 @@
+body{
+    margin: 0%;
+    background-color:rgb(114, 119, 138) !important;
+    font-family: 'Prompt', sans-serif !important;
+}
+.Header{
+    text-align: center;
+    color: #faebd7;
+    background-image: url("gopi\ bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.name{
+    font-size: 25px;
+}
+.pf{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.403);
+}
+.social{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+.social:hover{
+    transform: scale(1.05);
+}
+.Data{
+    float: left;
+    color: #faebd7;
+    border: 10px;
+    margin: 30px;
+    width: 700px;
+    padding: 20px;
+    background-color: rgb(149, 153, 166);
+    border-color: #000000;
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.403);
+}
+.biodata{
+    float: left;
+}
+.About{
+    width: 700px;
+}
+.Bio{
+    width: 700px;
+}
+.progress-section{
+    float: inherit;
+    color: #faebd7;
+    border: 10px;
+    margin-top: 30px !important;
+    margin: 10px;
+    width: 700px;
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    background-color: rgb(149, 153, 166);
+    border-color: #000000;
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.403);
+}
+h6{
+    text-align: center;
+    color: #faebd7;
+}
+#progress-bar-labels{
+    float: left;
+}
+
